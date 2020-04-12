@@ -71,3 +71,4 @@ python scripts/evaluate_model.py \
 
 ## Training new models
 Instructions for training new models can be [found here](TRAINING.md).
+# sgan
